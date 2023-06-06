@@ -1,0 +1,10 @@
+node_modules/
+<<<<<<< Updated upstream
+.idea/
+
+=======
+.idea/workspace.xml
+.idea/*
+>>>>>>> Stashed changes
+./*.png
+./*.jpg
